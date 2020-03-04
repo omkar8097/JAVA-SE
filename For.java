@@ -6,7 +6,8 @@ public class For {
 		while(i==30){
 			if(i!=24)
 			{
-			System.out.println(i);
+			System.out.println(i*5);
+			System.out.print(true);
 			}
 			i++;
 		  }
